@@ -10,7 +10,10 @@
     <string name="empty_number">0</string>
     <string name="wrong_text">Wrong: </string>
     <string name="wrong_number">0</string>
-    <string name="question_number">Question: 1</string>
+    <string name="question_number">Question:</string>
     <string name="button_option">Country Name</string>
     <string name="button_next">Start</string>
+    <string name="your_result">Your Result</string>
+    <string name="button_again">New Quiz</string>
+    <string name="button_exit">Exit</string>
 </resources>
